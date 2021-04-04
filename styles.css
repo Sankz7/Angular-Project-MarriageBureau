@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.header {
+    padding: 30px;
+    text-align: center;
+	color: rgb(15, 15, 15);
+	font-family: 'Segoe UI';
+	/* background: #fff0c4; */
+    
+	background-image: url("/assets/images/header/head.jpg");  		
+	
+}
+
